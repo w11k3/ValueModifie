@@ -1,0 +1,14 @@
+C:\Users\paulo\Downloads\Willian\ArraysMethods\ArraysMethods\bin\Debug\net8.0\ArraysMethods.exe
+C:\Users\paulo\Downloads\Willian\ArraysMethods\ArraysMethods\bin\Debug\net8.0\ArraysMethods.deps.json
+C:\Users\paulo\Downloads\Willian\ArraysMethods\ArraysMethods\bin\Debug\net8.0\ArraysMethods.runtimeconfig.json
+C:\Users\paulo\Downloads\Willian\ArraysMethods\ArraysMethods\bin\Debug\net8.0\ArraysMethods.dll
+C:\Users\paulo\Downloads\Willian\ArraysMethods\ArraysMethods\bin\Debug\net8.0\ArraysMethods.pdb
+C:\Users\paulo\Downloads\Willian\ArraysMethods\ArraysMethods\obj\Debug\net8.0\ArraysMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Downloads\Willian\ArraysMethods\ArraysMethods\obj\Debug\net8.0\ArraysMethods.AssemblyInfoInputs.cache
+C:\Users\paulo\Downloads\Willian\ArraysMethods\ArraysMethods\obj\Debug\net8.0\ArraysMethods.AssemblyInfo.cs
+C:\Users\paulo\Downloads\Willian\ArraysMethods\ArraysMethods\obj\Debug\net8.0\ArraysMethods.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Downloads\Willian\ArraysMethods\ArraysMethods\obj\Debug\net8.0\ArraysMethods.dll
+C:\Users\paulo\Downloads\Willian\ArraysMethods\ArraysMethods\obj\Debug\net8.0\refint\ArraysMethods.dll
+C:\Users\paulo\Downloads\Willian\ArraysMethods\ArraysMethods\obj\Debug\net8.0\ArraysMethods.pdb
+C:\Users\paulo\Downloads\Willian\ArraysMethods\ArraysMethods\obj\Debug\net8.0\ArraysMethods.genruntimeconfig.cache
+C:\Users\paulo\Downloads\Willian\ArraysMethods\ArraysMethods\obj\Debug\net8.0\ref\ArraysMethods.dll
